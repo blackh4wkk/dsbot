@@ -7,7 +7,7 @@ from typing import List
 # {ctx.guild} - возвращает название канала
 t = 1
 
-TOKEN = "ODg3NDExNTMzMTY3MDg3NjYw.YUDwZA.vTUnbvO3SNcS70UPimezT8W1wWM"
+TOKEN = "TOKEN"
 bot = commands.Bot(command_prefix='!')
 bot.remove_command('help')
 
